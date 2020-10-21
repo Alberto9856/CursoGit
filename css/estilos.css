@@ -1,14 +1,18 @@
+body{
+  background-color: black;
+}
 p{
   background-color: black;
   color: white;
-  width: 30%;
+  width: 100%;
   margin: auto;
   font-size: 1.5em;
   text-align: center;
 }
-body{
+section{
   background-color: grey;
   width: 50%;
-  border: 1px solid red;
+  border: 1px solid white;
+  border-radius: 50px 20px;
   margin: auto;
 }
